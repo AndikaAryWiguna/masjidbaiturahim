@@ -1,0 +1,157 @@
+#: locale=en
+
+## Action
+
+### URL
+LinkBehaviour_3958B192_2713_E785_418E_B6D9FFE36098.source = https://andikaarywiguna.github.io/gatotsubroto/
+LinkBehaviour_3F6D3B4D_1D96_86C9_419E_D191CF6C5987.source = https://andikaarywiguna.github.io/masjidbaiturahim/
+LinkBehaviour_3C777028_1D91_8248_41B8_F91AFF691091.source = https://andikaarywiguna.github.io/purajati/
+LinkBehaviour_3E3FE2D8_1D96_87D7_41B0_5E83DCB0FF01.source = https://storage.net-fs.com/hosting/8263316/2/
+LinkBehaviour_2CA7674F_0E07_B9CE_418F_79E2C56A3356.source = https://web.facebook.com/bpbdjembranabali
+LinkBehaviour_2D4ABE57_0E08_8BDD_41A9_5A2E3B140CA4.source = https://www.instagram.com/bpbdjembranabali?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==
+LinkBehaviour_2D656F5F_0E38_89CE_4183_32D70BA2D7EE.source = https://www.tiktok.com/@bpbdkabupatenjembrana?is_from_webapp=1&sender_device=pc
+PopupWebFrameBehaviour_2B173530_0E08_9952_41A8_49690F1200E8.url = //www.youtube.com/embed/QSAQSusgOto?list=PLIXbOTD6MBx6NQ3MG447Mags5V9-GGDB6
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_0F30BF1B_0E19_8956_4184_1C258FB833A1.text = MASJID BAITURAHHAMN
+HotspotPanoramaOverlayTextImage_371CC52C_0E38_9972_419E_D5D6AE5D75CA.text = PANTAI PENGAMBENGAN
+HotspotPanoramaOverlayTextImage_F74E0D21_0E08_8972_418E_CDDB5188A64B.text = PANTAI PENGAMBENGAN
+HotspotPanoramaOverlayTextImage_55799F58_17DA_A495_41A5_AC4F24FC5B60.text = PELABUHAN PERIKANAN
+HotspotPanoramaOverlayTextImage_3968BF56_0E08_89DE_41AA_46AC745F4917.text = TEA MASJID BAITURRAHIM
+
+## Media
+
+### Audio
+audiores_19E2A1C9_18FD_2D13_41AA_7401207951B0.mp3Url = media/audio_19E224E9_18FD_2B13_41B3_179739E5C18C_en.mp3
+
+### Audio Subtitles
+
+### Image
+imlevel_06AB3806_2712_E48D_41BD_DE246BF903B5.url = media/panorama_262CCEBF_0E08_8B4E_41A1_5C7B3CF15F46_HS_e2mnxknu_en.png
+imlevel_070A9951_2712_E487_41A1_E0970C287FC1.url = media/panorama_262CCEBF_0E08_8B4E_41A1_5C7B3CF15F46_HS_eiwxh2ns_en.png
+imlevel_07055AC4_2712_E58D_41B9_7C4C65F2B90F.url = media/panorama_29E3E5A1_0E09_9972_41A2_F6D4D5B3B9D2_HS_s2csk4ut_en.png
+imlevel_0705ACC7_2712_FD8B_41A4_A8FB0EA4A84B.url = media/panorama_29E3E5A1_0E09_9972_41A2_F6D4D5B3B9D2_HS_y7puzzgt_en.png
+imlevel_066D2799_2712_EB87_41B8_10BDD195FA56.url = media/panorama_F17FBC98_05C2_AF39_4191_54BFF0B4061A_HS_dwyb2ov9_en.png
+
+### Title
+panorama_E420E4A8_05CF_BF1A_4190_DA5479AB51E1.label = MasjidBaiturrahim10
+panorama_E577CEB6_05CF_EB09_4184_72182CBD146F.label = MasjidBaiturrahim12
+panorama_E2CBFC92_05CF_EF09_4193_405E1D98668F.label = MasjidBaiturrahim13
+panorama_ED3E133A_05CD_D979_4180_BC8A1651CD86.label = MasjidBaiturrahim14
+panorama_E2A37A98_05CF_AB39_4193_DAF4817E5EB4.label = MasjidBaiturrahim15
+panorama_E204780C_05CF_B719_4180_EF48B153D748.label = MasjidBaiturrahim16
+panorama_E0D78173_05CF_590F_417E_EAF75C77DEF7.label = MasjidBaiturrahim19
+panorama_E44E76E6_05CF_5B09_4184_2E282DB68FCB.label = MasjidBaiturrahim2
+panorama_EA6AC021_05CD_570A_4155_9CEF9B4DD6D5.label = MasjidBaiturrahim24
+panorama_EB5BDDAA_05CD_6919_4194_02F669BD6E16.label = MasjidBaiturrahim27
+panorama_E8BE7C53_05C2_AF0E_4195_008EE5D2965D.label = MasjidBaiturrahim29
+panorama_EF20FA8A_05CD_AB19_4199_21627C2D1E3F.label = MasjidBaiturrahim3
+panorama_E953639A_05C2_D939_4165_09277A78E66D.label = MasjidBaiturrahim33
+panorama_E12E1481_05CE_DF0A_419A_6EC178D122FD.label = MasjidBaiturrahim35
+panorama_E93CF05D_05C2_B73B_418A_A30EDC46AC6A.label = MasjidBaiturrahim36
+panorama_F69A5D2C_05C2_A919_417E_D38F9CAE97CA.label = MasjidBaiturrahim37
+panorama_F675EB86_05C3_6916_4193_C17BB98C17A8.label = MasjidBaiturrahim39
+panorama_F25A0064_05C3_7709_4193_D021462E94DE.label = MasjidBaiturrahim40
+panorama_EEBD0292_05CE_BB09_4198_45EA0C3224A8.label = MasjidBaiturrahim42
+panorama_F715A1D7_05C3_B937_4191_F6D3C8B05D7F.label = MasjidBaiturrahim46
+panorama_F3940AD5_05C2_AB0B_4193_B04AD089EFFB.label = MasjidBaiturrahim47
+panorama_EDC4FAF3_05CD_EB0E_4191_15C804928F28.label = MasjidBaiturrahim5
+panorama_07515EDA_04DF_EB39_419B_B20A296409DB.label = MasjidBaiturrahim51
+panorama_F17FBC98_05C2_AF39_4191_54BFF0B4061A.label = MasjidBaiturrahim55
+panorama_F44FCCB1_05C3_EF0B_410A_4C6033063880.label = MasjidBaiturrahim7
+panorama_F42F4A57_05C3_EB37_416C_94830C762B42.label = MasjidBaiturrahim8
+panorama_262CCEBF_0E08_8B4E_41A1_5C7B3CF15F46.label = MasjidBaiturrahimDroneAwal
+panorama_29E3E5A1_0E09_9972_41A2_F6D4D5B3B9D2.label = MasjidBaiturrahimDroneKumpul
+photo_385226C4_0E1B_9B32_4188_CE2B6A3D86DF.label = Screenshot_7
+photo_32B19578_0E79_99D2_4198_4C53F75A91D8.label = Screenshot_8
+photo_4BF73305_0E08_7932_41AC_C28EFA7C4C02.label = Screenshot_9
+
+## Popup
+
+### Body
+htmlText_48686ECB_0E0F_8B36_4174_653C3A52E26B.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:18px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:18px;font-family:'Montserrat SemiBold';"><B><U>MASJID BAITURRAHIM</U></B></SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;font-family:'Montserrat SemiBold';"></SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;font-family:'Montserrat SemiBold';"></SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:11px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:11px;font-family:'Montserrat SemiBold';"><B>-8.386087921197014, 114.58422525663097</B></SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;font-family:'Montserrat SemiBold';"><B>JH7M+JM3, Tegal Badeng Bar., Kec. Negara, Kabupaten Jembrana, Bali 82218<BR/><BR/>Titik Evakuasi Akhir<BR/>-</B></SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_35DE5F4C_0E79_8932_41A1_2722709FB8CD.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:18px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:18px;font-family:'Montserrat SemiBold';"><B><U>PONDOK PESANTREN MAMBAUS SHOLIHIN BALI</U></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:17px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:17px;font-family:'Montserrat SemiBold';"></SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:11px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:11px;font-family:'Montserrat SemiBold';">-8.386217663232483, 114.58252827977486</SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;font-family:'Montserrat SemiBold';">Ponpes mambaus sholihin bali, Pengambengan, Kec. Negara, Kabupaten Jembrana, Bali 82122</SPAN></SPAN></DIV><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-family:'Montserrat SemiBold';"/></SPAN></DIV><DIV STYLE="text-align:center;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;font-family:'Montserrat SemiBold';">Jarak total: 216,66 m (710,83 kaki) Menuju TEA Masjid Baiturrahim</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_3D614008_0E18_9732_41AC_4566EB246A97.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:18px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:18px;font-family:'Montserrat SemiBold';"><B><U>TK TUNAS BAHARI 1 PENGAMBENGAN</U></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-family:'Montserrat SemiBold';"/></SPAN></DIV><DIV STYLE="text-align:center;font-size:11px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:11px;font-family:'Montserrat SemiBold';"><B>-8.386579994482235, 114.5803570983923</B></SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;font-family:'Montserrat SemiBold';">JH7J+949, Jl. Raya Negara-Pengambengan, Pengambengan, Kec. Negara, Kabupaten Jembrana, Bali 82218</SPAN></SPAN></DIV><DIV STYLE="text-align:center;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-family:'Montserrat SemiBold';"/></SPAN></DIV><DIV STYLE="text-align:center;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;font-family:'Montserrat SemiBold';">Jarak total: 447,15 m (1.467,04 kaki) Menuju Ke TEA Masjid Baiturahim</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-family:'Montserrat SemiBold';"/></SPAN></DIV></BODY></HTML></div>
+
+## Skin
+
+### Button
+Button_2FB9E392_0E08_9956_41A3_664E1F148089.label = Balai Subak Pemaket
+Button_2FB97392_0E08_9956_4199_C43800AB6315.label = Bar
+Button_2FB95392_0E08_9956_41A9_0CB3CF0E2F6C.label = Chill Out
+Button_2FB89391_0E08_9952_4162_8D8AA89CE564.label = DRONE
+Button_2FB8D391_0E08_9952_419E_48A701AD8A7E.label = Drone Titik Awal
+Button_2FB8C391_0E08_9952_4196_F3834BA07A20.label = Drone Titik Kumpul
+Button_2FB61392_0E08_9956_4199_9ADE2A7C60DB.label = Gatot Subroto
+Button_2FB9A392_0E08_9956_41A6_5B73B59DA25F.label = JALUR
+Button_2FB99392_0E08_9956_4182_BB435D3FDB31.label = Lorem Ipsum
+Button_2FB9D392_0E08_9956_4185_27981303143A.label = Lorem Ipsum
+Button_2FB9A394_0E08_9952_4188_820BD2ABF3C9.label = Lorem Ipsum
+Button_2FB9C392_0E08_9956_4186_89E632196CB0.label = Lorem Ipsum
+Button_2FB98392_0E08_9956_41A1_86176BF2754A.label = Lorem Ipsum
+Button_2FB9F394_0E08_9952_418F_A5E9675E122E.label = Lorem Ipsum
+Button_2FB63392_0E08_9956_419F_49EF1364DA30.pressedLabel = Lorem Ipsum
+Button_2FB94394_0E08_9952_41AB_94F1AAED037B.label = Lorem Ipsum
+Button_2FB60392_0E08_9956_41A3_85B72709B684.label = Lorem Ipsum
+Button_2FB6D393_0E08_9956_4199_8F5B08179067.label = Lorem Ipsum
+Button_2FB66392_0E08_9956_4182_313C14D28B23.label = Lorem Ipsum
+Button_2FB65392_0E08_9956_41AA_E8AC483A748A.label = Lorem Ipsum
+Button_2FB98394_0E08_9952_419E_557CC0C84AB0.label = Lorem Ipsum
+Button_2FB6C394_0E08_9952_4192_A6A1A8100CA6.pressedLabel = Lorem Ipsum
+Button_2FB94392_0E08_9956_4194_FE3EAB483E73.label = Lorem Ipsum
+Button_2FB9A392_0E08_9956_41A7_EF90F5C47E13.label = Lorem Ipsum
+Button_2FB9A392_0E08_9956_41A7_EF90F5C47E13.pressedLabel = Lorem Ipsum
+Button_2FB6C394_0E08_9952_4192_A6A1A8100CA6.label = Lorem Ipsum
+Button_2FB66393_0E08_9956_41AC_75B46A078729.label = Lorem Ipsum
+Button_2FB9D393_0E08_9956_41A2_898541E3CD15.label = Lorem Ipsum
+Button_2FB63393_0E08_9956_4155_F3BFF019FAE4.label = Lorem Ipsum
+Button_2FB9F393_0E08_9956_41A8_EBD2A7D4C39E.label = Lorem Ipsum
+Button_2FB61393_0E08_9956_41A4_6BA1B2CF10D2.label = Lorem Ipsum
+Button_2FB6E393_0E08_9956_41AA_6B150FF383E0.label = Lorem Ipsum
+Button_2FB62393_0E08_9956_41A9_CFDA62A4179D.label = Lorem Ipsum
+Button_2FB67393_0E08_9956_41A0_125DB0B14795.label = Lorem Ipsum
+Button_2FB63393_0E08_9956_4155_F3BFF019FAE4.pressedLabel = Lorem Ipsum
+Button_2FB99394_0E08_9952_4176_554C1474C842.label = Lorem ipsum
+Button_2FB9F392_0E08_9956_41A6_E718B83D5367.label = Lorem ipsum
+Button_2FB67392_0E08_9956_4186_677F0364753C.label = Lorem ipsum
+Button_2FB60393_0E08_9956_4176_36E72465017A.label = Lorem ipsum
+Button_2FB9C392_0E08_9956_419A_7FC4202059D2.label = Masjid Baiturahim
+Button_2FB92391_0E08_9952_419B_E5227ED0C2BA.label = Meeting Area 1
+Button_2FB90391_0E08_9952_4191_0BB91712388A.label = Meeting Area 2
+Button_2FB95392_0E08_9956_418D_7A8432CD1ECC.label = Pelabuhan Perikanan
+Button_2FB64393_0E08_9956_41A9_0546D04226CB.label = RESTAURANTS >
+Button_2FB93391_0E08_9952_41AB_4E93B48CC610.label = Reception
+Button_2FB93391_0E08_9952_41AB_4E93B48CC610.pressedLabel = Reception
+Button_2FB94393_0E08_9956_41A2_114915D31235.label = SWIMMING POOL >
+Button_2FB62392_0E08_9956_41A7_482DF522120C.label = TITIK  AKHIR
+Button_2FB91392_0E08_9956_41AA_5AD5536223C8.label = TITIK AWAL
+Button_2FB94392_0E08_9956_41A7_5B0B8E9362FB.label = Terrace
+Button_2FB63392_0E08_9956_419F_49EF1364DA30.label = Titik Awal Pura Jati
+
+### Image
+Image_020C11A0_1BB7_1119_41B4_9D8D579E89DE.url = skin/Image_020C11A0_1BB7_1119_41B4_9D8D579E89DE_en.png
+Image_1A0CB592_1B45_1530_41B3_CA80A901A32A.url = skin/Image_1A0CB592_1B45_1530_41B3_CA80A901A32A_en.png
+Image_2B7F45AA_0E09_9976_415A_81FE3FC81A8E.url = skin/Image_2B7F45AA_0E09_9976_415A_81FE3FC81A8E_en.png
+
+### Label
+Label_D9B56BFE_0E08_88CE_419A_FF485B606DF1.text = (+/-) 1190m
+Label_1A4DD9CF_1BC7_1D10_4196_3E74EBEAB7E6.text = BALI
+Label_1A49A1BF_1BCF_2D70_4171_BB077C13AAAC.text = DESA PENGAMBENGAN
+Label_027AD7F7_1BB5_10E7_41A2_C7EEF3F2DC12.text = DESA PENGAMBENGAN, JEMBRANA
+Label_1A4E07DB_1BC4_F530_41AC_9401C2285DFE.text = JEMBRANA
+Label_2857FD52_27DF_6354_41C2_FBBFB645E4F8.text = MASJID BAITURAHIM
+Label_2A44E764_0E08_99F2_418D_8A5114DF93DE.text = PELABUHAN PERIKANAN PENGAMBENGAN
+Label_2B2906CC_0E1B_9B33_4191_36CFC966AD5A.text = TITIK AKHIR MASJID BAITURAHIM
+Label_2DBC66EC_0E07_98F2_41AA_9FC4E331B446.text = TITIK AWAL PELABUHAN PERIKANAN PENGAMBENGAN
+
+### Multiline Text
+HTMLText_2FB63394_0E08_9952_416C_E890A5C36DD2.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 5
