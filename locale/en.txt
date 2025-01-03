@@ -3,23 +3,22 @@
 ## Action
 
 ### URL
-LinkBehaviour_50B3585D_4CD4_E375_41B8_DEF4AADD8143.source = https://andikaarywiguna.github.io/gatotsubroto/
+LinkBehaviour_50B3585D_4CD4_E375_41B8_DEF4AADD8143.source = https://360.bnpb.go.id/static-jembrana-gatotsubroto
+LinkBehaviour_50B3B85C_4CD4_E37B_41C9_DFEB65B61BF6.source = https://360.bnpb.go.id/static-jembrana-purajati
+LinkBehaviour_50AC685A_4CD4_E37F_418E_00ED6D57674B.source = https://360.bnpb.go.id/static-jembrana-subak
 LinkBehaviour_BDBB24E3_8A01_6B2D_41A8_3E22AFE0F2E2.source = https://andikaarywiguna.github.io/gatotsubroto/
-LinkBehaviour_50AC085B_4CD4_E37D_41C1_4199AA65E6A2.source = https://andikaarywiguna.github.io/masjidbaiturahim/
 LinkBehaviour_BDB884DE_8A01_6B17_41B7_D5A4239B2FD1.source = https://andikaarywiguna.github.io/masjidbaiturahim/
-LinkBehaviour_50B3B85C_4CD4_E37B_41C9_DFEB65B61BF6.source = https://andikaarywiguna.github.io/purajati/
 LinkBehaviour_BDBAF4E0_8A01_6B2B_41C2_CA9EE4529510.source = https://andikaarywiguna.github.io/purajati/
-LinkBehaviour_50AC685A_4CD4_E37F_418E_00ED6D57674B.source = https://storage.net-fs.com/hosting/8263316/2/
 LinkBehaviour_BDB8C4DB_8A01_6B1D_41D1_113E68414ACD.source = https://storage.net-fs.com/hosting/8263316/2/
-LinkBehaviour_2CA7674F_0E07_B9CE_418F_79E2C56A3356.source = https://web.facebook.com/bpbdjembranabali
 LinkBehaviour_BDB13524_8A01_752B_41D4_D5AA7061AD96.source = https://web.facebook.com/bpbdjembranabali
+LinkBehaviour_2CA7674F_0E07_B9CE_418F_79E2C56A3356.source = https://web.facebook.com/bpbdjembranabali
 LinkBehaviour_BDB10523_8A01_752D_41D3_A10EAF748875.source = https://www.instagram.com/bpbdjembranabali?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==
 LinkBehaviour_2D4ABE57_0E08_8BDD_41A9_5A2E3B140CA4.source = https://www.instagram.com/bpbdjembranabali?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==
-LinkBehaviour_2D656F5F_0E38_89CE_4183_32D70BA2D7EE.source = https://www.tiktok.com/@bpbdkabupatenjembrana?is_from_webapp=1&sender_device=pc
 LinkBehaviour_BDB17524_8A01_752B_4193_5035C477E3B2.source = https://www.tiktok.com/@bpbdkabupatenjembrana?is_from_webapp=1&sender_device=pc
+LinkBehaviour_2D656F5F_0E38_89CE_4183_32D70BA2D7EE.source = https://www.tiktok.com/@bpbdkabupatenjembrana?is_from_webapp=1&sender_device=pc
 PopupWebFrameBehaviour_49E15FC3_393C_2ACD_41B9_7A20B5C91AFB.url = //www.youtube.com/embed/QSAQSusgOto?list=PLIXbOTD6MBx6NQ3MG447Mags5V9-GGDB6
-PopupWebFrameBehaviour_BDBD74B1_8A01_6B2D_41D5_0622875DED96.url = //www.youtube.com/embed/QSAQSusgOto?list=PLIXbOTD6MBx6NQ3MG447Mags5V9-GGDB6
 PopupWebFrameBehaviour_2B173530_0E08_9952_41A8_49690F1200E8.url = //www.youtube.com/embed/QSAQSusgOto?list=PLIXbOTD6MBx6NQ3MG447Mags5V9-GGDB6
+PopupWebFrameBehaviour_BDBD74B1_8A01_6B2D_41D5_0622875DED96.url = //www.youtube.com/embed/QSAQSusgOto?list=PLIXbOTD6MBx6NQ3MG447Mags5V9-GGDB6
 
 ## Hotspot
 
@@ -90,12 +89,12 @@ album_7BA4BBF8_5604_A29A_41C9_D9DA92D8517B_0.label = tsunami-saat-ada-peringatan
 album_7BA4BBF8_5604_A29A_41C9_D9DA92D8517B_1.label = tsunami-setelah-terjadi
 
 ### Video
-videolevel_9111CEAB_8CC8_CA5C_41A0_052DE1A9C787.url = media/video_4EA64AF5_5ED9_E3B6_41CD_EC9AB631616C_en.mp4
-videolevel_9111CEAB_8CC8_CA5C_41A0_052DE1A9C787.posterURL = media/video_4EA64AF5_5ED9_E3B6_41CD_EC9AB631616C_poster_en.jpg
-videolevel_9113CE21_8CC8_CA4C_41B6_69A1328AD247.url = media/video_7880B3B5_56FB_E2AA_4199_436A691EFE2C_en.mp4
-videolevel_9113CE21_8CC8_CA4C_41B6_69A1328AD247.posterURL = media/video_7880B3B5_56FB_E2AA_4199_436A691EFE2C_poster_en.jpg
-videolevel_9112EE69_8CC8_CADC_41C5_C98AF971A6EA.url = media/video_7B7CC756_56FB_6396_4184_118D712028F5_en.mp4
-videolevel_9112EE69_8CC8_CADC_41C5_C98AF971A6EA.posterURL = media/video_7B7CC756_56FB_6396_4184_118D712028F5_poster_en.jpg
+videolevel_3B5B2B92_2ABF_84FA_4194_29BD5D2E2C70.url = media/video_4EA64AF5_5ED9_E3B6_41CD_EC9AB631616C_en.mp4
+videolevel_3B5B2B92_2ABF_84FA_4194_29BD5D2E2C70.posterURL = media/video_4EA64AF5_5ED9_E3B6_41CD_EC9AB631616C_poster_en.jpg
+videolevel_3B5E5B07_2ABF_85D9_4179_3D580A2C0EC3.url = media/video_7880B3B5_56FB_E2AA_4199_436A691EFE2C_en.mp4
+videolevel_3B5E5B07_2ABF_85D9_4179_3D580A2C0EC3.posterURL = media/video_7880B3B5_56FB_E2AA_4199_436A691EFE2C_poster_en.jpg
+videolevel_3B58FB59_2ABF_8476_41C1_D70C111A9108.url = media/video_7B7CC756_56FB_6396_4184_118D712028F5_en.mp4
+videolevel_3B58FB59_2ABF_8476_41C1_D70C111A9108.posterURL = media/video_7B7CC756_56FB_6396_4184_118D712028F5_poster_en.jpg
 
 ### Video Subtitles
 
@@ -113,40 +112,39 @@ Button_50AEA859_4CD4_E37D_419F_36714D35B7EF.label = Balai Subak Pemaket
 Button_50AEA859_4CD4_E37D_419F_36714D35B7EF_mobile.label = Balai Subak Pemaket
 Button_50279B13_4CD4_26CE_4160_71867CFA4406_mobile.label = DRONE
 Button_50279B13_4CD4_26CE_4160_71867CFA4406.label = DRONE
-Button_50295B28_4CD4_26DB_41B1_462C2F0CCA5C_mobile.label = Drone Titik Awal
 Button_50295B28_4CD4_26DB_41B1_462C2F0CCA5C.label = Drone Titik Awal
-Button_50292B28_4CD4_26DB_41C6_98D762A81301_mobile.label = Drone Titik Kumpul
+Button_50295B28_4CD4_26DB_41B1_462C2F0CCA5C_mobile.label = Drone Titik Awal
 Button_50292B28_4CD4_26DB_41C6_98D762A81301.label = Drone Titik Kumpul
+Button_50292B28_4CD4_26DB_41C6_98D762A81301_mobile.label = Drone Titik Kumpul
 Button_50AD985D_4CD4_E375_41D2_26E88ACC21C1_mobile.label = Gatot Subroto
 Button_50AD985D_4CD4_E375_41D2_26E88ACC21C1.label = Gatot Subroto
 Button_506853F8_4CD4_653A_4199_F1F04073257B.label = INFO
 Button_506853F8_4CD4_653A_4199_F1F04073257B_mobile.label = INFO
-Button_50B7D86E_4CD4_E356_41D0_CE6827675BD8_mobile.label = JALUR
 Button_50B7D86E_4CD4_E356_41D0_CE6827675BD8.label = JALUR
+Button_50B7D86E_4CD4_E356_41D0_CE6827675BD8_mobile.label = JALUR
 Button_7DF39F20_560B_A3AA_41CA_B7B1B846512F_mobile.label = Langkah Evakuasi
 Button_7DF39F20_560B_A3AA_41CA_B7B1B846512F.label = Langkah Evakuasi
-Button_50AD385B_4CD4_E37D_41C5_DC49335F5944.label = Masjid Baiturahim
 Button_50AD385B_4CD4_E37D_41C5_DC49335F5944_mobile.label = Masjid Baiturahim
-Button_50977714_4CD4_2ECB_41BE_36AEEAB8AA1E.label = Pelabuhan Perikanan
 Button_50977714_4CD4_2ECB_41BE_36AEEAB8AA1E_mobile.label = Pelabuhan Perikanan
+Button_50977714_4CD4_2ECB_41BE_36AEEAB8AA1E.label = Pelabuhan Perikanan
 Button_4EEC1EDD_5EDF_E3F6_41C6_1690D662623A_mobile.label = Penganggulangan
 Button_4EEC1EDD_5EDF_E3F6_41C6_1690D662623A.label = Penganggulangan
 Button_7DF35F1E_560B_A396_41D5_0940FA8FC2A4.label = Pengenalan Rambu
-Button_7DF35F1E_560B_A396_41D5_0940FA8FC2A4_mobile.pressedLabel = Pengenalan Rambu
 Button_7DF35F1E_560B_A396_41D5_0940FA8FC2A4.pressedLabel = Pengenalan Rambu
+Button_7DF35F1E_560B_A396_41D5_0940FA8FC2A4_mobile.pressedLabel = Pengenalan Rambu
 Button_7DF35F1E_560B_A396_41D5_0940FA8FC2A4_mobile.label = Pengenalan Rambu
-Button_7DF02F1C_560B_A39A_41C1_7AE6BD276AFD.label = Peta
 Button_7DF02F1C_560B_A39A_41C1_7AE6BD276AFD_mobile.label = Peta
+Button_7DF02F1C_560B_A39A_41C1_7AE6BD276AFD.label = Peta
 Button_50FAA364_4CD4_254B_41D1_098D445484AB_mobile.label = TITIK  AKHIR
 Button_50FAA364_4CD4_254B_41D1_098D445484AB.label = TITIK  AKHIR
 Button_509E2723_4CD4_2ECE_41B7_05042AFD1615_mobile.label = TITIK AWAL
 Button_509E2723_4CD4_2ECE_41B7_05042AFD1615.label = TITIK AWAL
 Button_7DF31F1D_560B_A39A_41A5_95264E865329.label = Tindakan
 Button_7DF31F1D_560B_A39A_41A5_95264E865329_mobile.label = Tindakan
-Button_50ACD85C_4CD4_E37B_41C8_580F7F4B006D.label = Titik Awal Pura Jati
+Button_50ACD85C_4CD4_E37B_41C8_580F7F4B006D_mobile.pressedLabel = Titik Awal Pura Jati
 Button_50ACD85C_4CD4_E37B_41C8_580F7F4B006D.pressedLabel = Titik Awal Pura Jati
 Button_50ACD85C_4CD4_E37B_41C8_580F7F4B006D_mobile.label = Titik Awal Pura Jati
-Button_50ACD85C_4CD4_E37B_41C8_580F7F4B006D_mobile.pressedLabel = Titik Awal Pura Jati
+Button_50ACD85C_4CD4_E37B_41C8_580F7F4B006D.label = Titik Awal Pura Jati
 
 ### Image
 Image_2FC3BC23_393C_2D4D_41BD_2CB9B42D9690.url = skin/Image_2FC3BC23_393C_2D4D_41BD_2CB9B42D9690_en.png
